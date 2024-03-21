@@ -4,6 +4,8 @@ The paper is submitted to IROS 2024.
 
 The source code will be released after the publication of the paper.
 
+[[arXiv](https://arxiv.org/abs/2403.12676)]
+
 
 ## Video
 
