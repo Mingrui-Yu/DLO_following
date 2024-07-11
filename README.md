@@ -2,7 +2,7 @@
 
 [[Project Website](https://mingrui-yu.github.io/DLO_following/)]
 
-Code for the IROS 2024 submission "In-Hand Following of Deformable Linear Objects Using Dexterous Fingers with Tactile Sensing".
+Repository for the IROS 2024 paper "In-Hand Following of Deformable Linear Objects Using Dexterous Fingers with Tactile Sensing".
 
 In this repo, we provide the code for
 
