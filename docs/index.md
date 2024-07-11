@@ -1,10 +1,8 @@
 # In-Hand Following of Deformable Linear Objects Using Dexterous Fingers with Tactile Sensing
 
-The paper has been accepted to IROS 2024 (oral presentation, top 12%).
+The paper has been accepted by IROS 2024 (oral presentation, top 12%).
 
-The source code will be released soon.
-
-[[arXiv](https://arxiv.org/abs/2403.12676)]
+[[arXiv](https://arxiv.org/abs/2403.12676)] [[Code](https://github.com/Mingrui-Yu/DLO_following)]
 
 ## Video
 
@@ -31,7 +29,7 @@ Due to the page limit, we cannot include everything in the conference paper. Her
   - Connected component detection: removing the connected components whose area is less than a threhold.
   - Close operation.
 - The contact region segmentation for the V-shape grasping: the size of the bottom region was manually defined.
-- The requirements of stable sensing in Section III-C are defined as: the contact area on both tactile sensors are larger than a threshold.
+- The requirements of reliable sensing in Section III-C are defined as: the contact area on both tactile sensors are larger than a threshold.
 - All programs are run on a laptop with Ubuntu 20.04 and an Intel i7-9750H CPU (2.6Hz).
 - The optimization problems for IK and in-hand DLO pose estimation can be solved within 50 ms, respectively. Note that the implementation had not been highly optimized and the solving speed could be further improved.
 
