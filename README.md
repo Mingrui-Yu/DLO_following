@@ -9,6 +9,8 @@ In this repo, we provide the code for
 - The optimization-based inverse kinematics (IK) solver.
 - The tactile-based in-hand 3-D DLO pose estimation approach.
 
+We do not recommend developing your project directly based on our code as it has not been optimized. The code is mainly released for reference or a quick test run.
+
 ## Installation
 
 ```

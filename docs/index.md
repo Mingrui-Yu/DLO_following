@@ -40,7 +40,7 @@ In this work, we pioneeringly explore the usage of dexterous hands to enhance th
 - During V-shape DLO following, the contact region segmentation was not very stable, since the two Gelsight contact with each other with a large contact force. The contact region segmentation approach in such situations should be investigated further.
 - The current motion design for DLO following is really simple, which is just based on some simple human-designed feedback control laws. In our experiments, we found that online adjusting the gripping angle and gripping force did not contribute much to the performance of DLO following (That is why we did not introduce the related details much in the paper). A learning-based policy may be better.
 
-To be honest, we do not recommend developing your project directly based on our code as it has not been optimized. The code is mainly released for reference or a quick test run.
+We do not recommend developing your project directly based on our code as it has not been optimized. The code is mainly released for reference or a quick test run.
 
 ### Potential future work
 
