@@ -30,7 +30,7 @@ Due to the page limit, we cannot include everything in the conference paper. Her
   - Close operation.
 - The contact region segmentation for the V-shape grasping: the size of the bottom region was manually defined.
 - The requirements of reliable sensing in Section III-C are defined as: the contact area on both tactile sensors are larger than a threshold.
-- All programs are run on a laptop with Ubuntu 20.04 and an Intel i7-9750H CPU (2.6Hz).
+- All programs are run on a laptop with Ubuntu 20.04 and an Intel i7-9750H CPU (2.6GHz).
 - The optimization problems for IK and in-hand DLO pose estimation can be solved within 50 ms, respectively. Note that the implementation had not been highly optimized and the solving speed could be further improved.
 
 ### Limitations
@@ -44,6 +44,19 @@ In this work, we pioneeringly explore the usage of dexterous hands to enhance th
 
 - More complicated robot arm motion, beyond just moving parallel to the table surface.
 - Utilizing more fingers and more contact points.
+
+## Citation
+Please cite our paper if you find it helpful :)
+```
+@inproceedings{yu2024hand,
+  title={In-hand following of deformable linear objects using dexterous fingers with tactile sensing},
+  author={Yu, Mingrui and Liang, Boyuan and Zhang, Xiang and Zhu, Xinghao and Sun, Lingfeng and Wang, Changhao and Song, Shiji and Li, Xiang and Tomizuka, Masayoshi},
+  booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={13518--13524},
+  year={2024},
+  organization={IEEE}
+}
+```
 
 ## Contact
 
