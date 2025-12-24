@@ -48,3 +48,7 @@ python test_cable_sensing.py seq_0
 # or
 python test_cable_sensing.py seq_1
 ```
+
+## Hardware
+
+The STL file of the GelSight Mini mount on the LEAP Hand's fingertips is provided [here](urdf\gelsight_hand_mount.STL), which can be used for 3D printing.
